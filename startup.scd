@@ -1,4 +1,9 @@
 (
+"Running sc_utils startup".postln;
+
+// to use symbols for chords
+include("ChordSymbol");
+
 // boot default server
 s.boot;
 
